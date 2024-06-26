@@ -23,7 +23,7 @@ Power the ESP32 using a suitable power source.
   - WiFi
   - Clone the project repository from GitHub:
  # Copy code
-[Code](https://github.com/karthickrajathedeveloper/E-Paper-image-/blob/main/E-paper%20display%20image.ino)
+[Code](https://github.com/karthickrajathedeveloper/E-Paper-image/blob/main/E-paper%20display%20image.ino)
 ## Open the project in the Arduino IDE.
 Configuration
 # WiFi Configuration
